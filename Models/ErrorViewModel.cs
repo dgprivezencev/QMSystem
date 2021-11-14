@@ -1,5 +1,3 @@
-using System;
-
 namespace QMSystem.Models
 {
     public class ErrorViewModel
